@@ -1,3 +1,33 @@
-Funções do sistema:
+# projeto_v1 
 
-alerta > Exibe mansagem ao usuário
+![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png "Javascript")
+## Meu primeiro projeto com GitHub
+
+
+- Instale o Visual Studio Code
+- Abra os exemplos em HTML em seu navegador WEB.
+- Teste a partir do console `CTRL+SHIFT+C`
+
+
+```javascript
+//Javascript
+
+//return 'mensagem ao usuário'
+alerta('mensagem')
+
+//return 'saudacao'
+saudacao('mensagem')
+
+//
+//op(tipo de operação: 1 subtração 2 sonma)
+caculo(op,n1,n2,mensagem)
+```
+
+## Contribua com este projeto
+Pull requests são bem vindos. Envie uma [mensagem](https://github.com/roque-fernando/projeto_v1/issues) pra nós. Queremos conhecer melhor as suas ideias!
+
+
+
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
+[roque-fernando](https://github.com/roque-fernando)
