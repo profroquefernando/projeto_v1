@@ -1,4 +1,15 @@
-# projeto_v1 
+Como escrever meu readme.md?
+
+[] Título 
+[] Descrição (O que faz o seu projeto?)
+[] Indíce
+[] Como instalar
+[] Como usar
+[] Créditos
+[] Licenças https://choosealicense.com/
+[] icones > https://shields.io/
+
+
 
 ![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png "Javascript")
 ## Meu primeiro projeto com GitHub
