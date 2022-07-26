@@ -2,4 +2,3 @@
 
 ## Meu primeiro projeto com GitHub
 - Clonando o repositório remoto
-- Alterando para um novo branch....
