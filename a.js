@@ -1,4 +1,4 @@
-//Jogo do par impar
+//Jogo do par impar ..
 
 function jogo(){
  return "play!"
