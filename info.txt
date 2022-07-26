@@ -1,13 +1,14 @@
 Como escrever meu readme.md?
 
-[] Título 
-[] Descrição (O que faz o seu projeto?)
-[] Indíce
-[] Como instalar
-[] Como usar
-[] Créditos
-[] Licenças https://choosealicense.com/
-[] icones > https://shields.io/
+[x] Título 
+[x] Descrição (O que faz o seu projeto?)
+[x] Indíce
+[x] Como instalar
+[x] Como usar
+[x] Contribuição
+[x] Créditos
+[x] Licenças https://choosealicense.com/
+[x] icones > https://shields.io/
 
 
 
