@@ -1,4 +1,4 @@
-//Jogo par impar
+//Jogo par impar com pontos
 let mensagem
 let pontos
 function jogoParImpar() {
