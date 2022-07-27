@@ -1,6 +1,6 @@
 //Jogo par impar
 let mensagem
-let pontos
+let pontos=0
 function jogoParImpar() {
     n ? mensagem = "Jogar!" : null
     return mensagem
